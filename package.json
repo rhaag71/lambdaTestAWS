@@ -1,0 +1,19 @@
+{
+ "name": "myNewApi",
+  "version": "0.0.1",
+  "description": "Rob's Test API",
+  "author": "rob haag <rhaag71@gmail.com>",
+  "main": "index.js",
+
+  "dependencies": {
+  },
+
+"devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+
+  "scripts": {
+    "zip": "zip -r ../myNewApi.zip *"
+  }
+}
